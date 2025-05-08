@@ -2,7 +2,7 @@
 
 [![Semester](https://img.shields.io/badge/Semester-Spring%202024-blue)]() [![Project](https://img.shields.io/badge/Project-Multimedia%20Content%20Analysis%20Project%201-orange)]()
 
-🚀 check out the [report](https://github.com/JenLungHsu/Video-Shot-Change-Detection/blob/main/Video%20Shot%20Change%20Detection.pdf) for more detail.
+🚀 Check out the [report](https://github.com/JenLungHsu/Video-Shot-Change-Detection/blob/main/Video%20Shot%20Change%20Detection.pdf) for more detail.
 
 ## Overview
 This project focuses on **shot change detection** and **fade detection** in video streams using **Color Histograms** as the primary visual feature. The implementation includes:
